@@ -2,7 +2,7 @@
 This is a sample Readme file for our Tourist guide project.
 
 ## Description
-Videocalls to answer about travel questions, made by locals. If I want to go and visit spain I can pay a time token (i.e. 19$ for 1 hour) and chat with an spanian asking questions about Barcelona, Madrid, daily habits, etc...
+Videocalls to answer about travel questions, made by locals. If I want to go and visit spain I can pay a time token (i.e. 19$ for 1 hour) and chat with an spanish asking questions about Barcelona, Madrid, daily habits, etc...
 
 ### PROs
 *MVP can start on Google Hangout with low tech involved
